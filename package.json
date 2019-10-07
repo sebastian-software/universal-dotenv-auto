@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/sebastian-software/universal-dotenv-auto#readme",
   "dependencies": {
-    "universal-dotenv": "^3.0.1"
+    "universal-dotenv": "^3.0.2"
   }
 }

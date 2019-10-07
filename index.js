@@ -1,2 +1,1 @@
-const { init } = require("universal-dotenv")
-init()
+require("universal-dotenv/register")

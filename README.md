@@ -10,6 +10,10 @@
 
 Universal DotEnv auto - Automatic load dotenv files on import using universal-dotenv
 
+**DEPRECATED**
+
+Please use `import "universal-dotenv/register"`
+
 ## How to use
 
 Install universal-dotenv-auto via
